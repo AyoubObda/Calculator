@@ -54,3 +54,16 @@ body {
 .blue:hover {
   background-color: #03a9f4;
 }
+/*Footer*/
+.copyright {
+  left: 0%;
+  bottom: 0%;
+  width: 100%;
+  text-align: center;
+
+  padding: 2rem 0;
+  position: fixed;
+}
+.copyright p {
+  font-size: 1.4rem;
+}
